@@ -1,5 +1,9 @@
 ### Hi 👋, I'm Tejasva Kumar Baghel
 
+Connect with me:
+[rohanpatankar926](https://www.linkedin.com/in/tejasva-kumar-baghel-2ba936257/)
+
+https://www.linkedin.com/in/tejasva-kumar-baghel-2ba936257/
 - 🔭 I’m currently working on Machine Learning Projects
 
 
