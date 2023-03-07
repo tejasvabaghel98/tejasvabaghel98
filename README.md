@@ -1,10 +1,12 @@
 ### Hi 👋, I'm Tejasva Kumar Baghel
 
-Connect with me:
-https://www.linkedin.com/in/tejasva-kumar-baghel-2ba936257/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B44aCcMiaSz%2BAnskE2yHegw%3D%3D
+I am a Data Science Practitioner. I love coding, writing, speaking and traveling.
+Glad to see you here! 😄
 
-https://www.linkedin.com/in/tejasva-kumar-baghel-2ba936257/
 - 🔭 I’m currently working on Machine Learning Projects
+
+- 🌱 I’m currently learning Data Science and Machine Learning
+
 
 
 <!--
