@@ -1,5 +1,8 @@
 ### Hi 👋, I'm Tejasva Kumar Baghel
 
+- 🔭 I’m currently working on Machine Learning Projects
+
+
 <!--
 **tejasvabaghel98/tejasvabaghel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
