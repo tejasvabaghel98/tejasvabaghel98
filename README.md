@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Tejasva Kumar Baghel
 
 Connect with me:
-[rohanpatankar926](https://www.linkedin.com/in/tejasva-kumar-baghel-2ba936257/)
+https://www.linkedin.com/in/tejasva-kumar-baghel-2ba936257/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B44aCcMiaSz%2BAnskE2yHegw%3D%3D
 
 https://www.linkedin.com/in/tejasva-kumar-baghel-2ba936257/
 - 🔭 I’m currently working on Machine Learning Projects
